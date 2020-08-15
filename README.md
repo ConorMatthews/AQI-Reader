@@ -3,7 +3,7 @@
 This was written for my A Level CompSci course however it was cancelled due to Covid 19.
 Please don't use this if you are taking a CompSci A level as it may be checked aginst this.
 This code got given an A grade which kinda shows how much of the coursework grade is based around your write up.
-I'm also vey supprised this works and may not it the future.
+I'm also vey supprised this works (the window refreshes by killing itself then reopening) and may not it the future.
 
 
 ## Libraries Required
@@ -23,6 +23,7 @@ I'm also vey supprised this works and may not it the future.
 * threading
 
 ## Hardware Used
-* Raspberry Pi 3B
+* Raspberry Pi 3B - must be running full desktop Raspbian
+* 8GB SD Card Minimum
 * SDS011 AQI Module
 * Pimoroni Hyperpixel 4.0 (non-touch)
