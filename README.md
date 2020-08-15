@@ -21,3 +21,8 @@ I'm also vey supprised this works and may not it the future.
 * http.client
 * datetime
 * threading
+
+## Hardware Used
+* Raspberry Pi 3B
+* SDS011 AQI Module
+* Pimoroni Hyperpixel 4.0 (non-touch)
